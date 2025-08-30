@@ -17,7 +17,9 @@ The ESP32-CAM is a small, low-cost development board that combines an ESP32-S mi
 
 ## Pinout
 
+
 ![ESP32-CAM Pinout](https://lastminuteengineers.com/wp-content/uploads/iot/ESP32-CAM-Pinout.png)
+
 
 ## Getting Started
 

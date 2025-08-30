@@ -20,6 +20,7 @@ The Arduino Uno is the most popular and widely used board in the Arduino family.
 
 ![Arduino Uno Pinout](https://microcontrollerslab.com/wp-content/uploads/2018/10/Arduino-Uno-pinout-diagram.jpg)
 
+
 ## Power
 
 The Arduino Uno can be powered via the USB connection or with an external power supply. The power source is selected automatically.
